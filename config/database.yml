@@ -2,6 +2,6 @@ development:
   adapter: 'sqlite3'
   database: 'db/playlister-dev.db'
 
-test:
-  adapter: 'sqlite3'
-  database: 'db/playlister-test.db'
+# test:
+#   adapter: 'sqlite3'
+#   database: 'db/playlister-test.db'
